@@ -1,9 +1,9 @@
                   ####################################################################################################
-                  #                                        freememory.sh                                        #
-                  # Written BY ABBAHABIBI HAFID , NETWORK & SysAdmin at ABA CALL CENTER      #
+                  #                                        freememory.sh                                             #
+                  # Written BY ABBAHABIBI HAFID , NETWORK & SysAdmin at ABA CALL CENTER                              #
                   # If any bug, report us in the link below                                                          #
                   # Free to use/edit/distribute the code below by                                                    #
-                  # Special Thanks to My Teacher : ABDELATI OROUSS <3                                                    #
+                  # Special Thanks to My Teacher : ABDELATI OROUSS <3                                                #
                   #                                                                                                  #
                   ####################################################################################################
 #!/bin/bash
