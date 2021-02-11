@@ -19,5 +19,6 @@ it will look like this image :
 
 
 4) Copy the the content of "Cron job" File to  this file 
+
 [root@go ~]# vi /etc/crontab
 
