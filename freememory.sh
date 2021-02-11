@@ -13,6 +13,6 @@ if [ "$memfree" -le "$value" ]
 then
 echo "1" > /proc/sys/vm/drop_caches
 currenttime=` date `
-echo " Cette commande à été éxecuté à  " $currenttime lorsque la valeur de la mémoire vaut : "$memfree" " " >> /root/logfreememory
+echo " This command has been executed at " $currenttime when free memory equal to : "$memfree" " " >> /root/logfreememory
 fi
 
