@@ -1,6 +1,6 @@
-#Run the script each 5 minutes from Monday to Friday Between 9 AM & 6 PM
+#Run the script every 5 minutes from Monday to Friday Between 9 AM & 6 PM
 */5 9-18 * * 1-5 root /root/freememory.sh
-#Run the script each 5 minutes in saturday Between 9 AM & 1 PM
+#Run the script every 5 minutes in saturday Between 9 AM & 1 PM
 */5 9-13 * * 6 root /root/freememory.sh
-# At the End of each day delete the content of logfreememory
+# At the End of each day delete the content of logfreememory At 10 PM
 00 22 * * 1-6 root true > /root/logfreememory
