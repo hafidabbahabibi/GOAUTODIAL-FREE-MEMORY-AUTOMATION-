@@ -17,7 +17,7 @@ USAGE
 
 it will look like this image :
 
-https://imgur.com/kwDN7kB
+
 
 4) Copy the the content of "Cron job" File to  this file 
 
