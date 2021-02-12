@@ -1,6 +1,6 @@
 A Shell Script to Automatically Free the Physical Memory of VOIP Server in Linux.
 
-![](IMAGES/memory_usage.PNG)
+![](IMAGES/memory usage.PNG)
 
 **USAGE**
 
