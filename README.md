@@ -4,7 +4,7 @@ A Shell Script to Automatically Free the Physical Memory of VOIP Server in Linux
 
 **USAGE**
 
-1) Creat the script & the log file
+1) Create the script & the log file
 
 ***[root@go ~]# touch freememory.sh***
 
